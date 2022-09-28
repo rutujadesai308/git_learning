@@ -4,4 +4,8 @@ neww text adding
 
 comparison
 
+<<<<<<< Updated upstream
 stash change in main file
+=======
+stash change in sample1
+>>>>>>> Stashed changes

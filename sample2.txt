@@ -1,3 +1,4 @@
 this is second file
 git revert
 comparison2
+stash change in sample2
