@@ -4,3 +4,4 @@ neww text adding
 
 comparison
 
+stash change in main file
