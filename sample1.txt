@@ -1,2 +1,6 @@
 this is first file
+
 neww text adding
+
+comparison
+
